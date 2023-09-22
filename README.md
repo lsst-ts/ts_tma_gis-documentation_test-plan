@@ -373,112 +373,112 @@ trip pushbutton (ETPB) ).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-1.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check that GIS activates D-1 signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-1 indication and sends actuation signals.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -510,210 +510,210 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-2.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates D-2 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-3 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-4 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-6 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-7 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-9 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-10 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-11 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-12 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-13 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-14 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-15 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-16 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-18 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-20 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -745,203 +745,203 @@ Testing Controller).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-3.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check that GIS activates D-3 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-4 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-6 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-7 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-9 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-10 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-11 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-12 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-13 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-14 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-15 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-17 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-19 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-20 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -976,231 +976,231 @@ Wireless1. This event, Wireless1, must be reset.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-4 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-4 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-6 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-7 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-8 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-9 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-10 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-11 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-12 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-13 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-14 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-15 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-17 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-19 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-20 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-21 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is activated. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -1232,119 +1232,119 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-5.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-5 signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -1376,126 +1376,126 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-6.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-6 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-11 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-20 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -1527,119 +1527,119 @@ Testing Controller).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-7.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-7 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-8 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-21 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -1671,112 +1671,112 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-8.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-8 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-6 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -1808,196 +1808,196 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-9.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-9 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-7 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-8 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-9 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-10 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-11 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-12 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-13 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-14 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-15 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-17 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-19 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-20 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-21 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2029,112 +2029,112 @@ trip pushbutton (ETPB) ).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-10.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-10 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-17 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2166,112 +2166,112 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-11.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-11 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-16 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2303,182 +2303,182 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-12.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-12 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-4 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-6 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-12 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-13 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-14 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-15 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-17 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-19 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-20 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-21 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2510,119 +2510,119 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-13.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-13 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-21 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2654,112 +2654,112 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-14.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-14 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-2 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2791,112 +2791,112 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-15.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-15 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-9 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -2928,112 +2928,112 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-16.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-16 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-10 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3065,119 +3065,119 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-17.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-17 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-14 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-15 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3209,112 +3209,112 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-18.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-18 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/27</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3346,119 +3346,119 @@ trip pushbutton (ETPB).
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with D-19.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check Detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates D-19 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS activates A-5 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS activates A-8 indication and sends actuation signal.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Bypass the interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check bypass warning message is actived. Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all signals are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Relese bypassed interlock.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the above signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Bypass warning message is cleared. Detection error message is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check interlocks cannot be reset. Check all the signals remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the interlock that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check Detection alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3496,98 +3496,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with GIS Wireless 1 relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Wireless 1 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3613,98 +3613,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with GIS Wireless 2 relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Wireless 2 indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3732,98 +3732,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Laser Controller relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Laser Controller indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3851,98 +3851,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with PFLOW relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates PFLOW indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -3970,98 +3970,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with M2 Actuator relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates M2 Actuator indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4087,98 +4087,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with M2 Hexapod relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates M2 Hexapod indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4204,98 +4204,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Camera Rotator relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Camera Rotator indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4321,98 +4321,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Camera Hexapod relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Camera Hexapod indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4440,98 +4440,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Access Control relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Access Control indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4557,98 +4557,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Fire Control relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Fire Control indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-4.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4674,98 +4674,98 @@ them.
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Earthquake Control relay.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that GIS activates Earthquake Control indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-2.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay cannot be bypassed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all the interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>All the above interlocks remain active.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Reset interlock by pressing RESET button.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4834,133 +4834,133 @@ Testing procedure to verify the correct function of the delay time related with 
 <tr class="odd">
 <td>None signal is activated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Write down delay time configured: 12<strong>,</strong>0 [s]</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Press the interlock related with Earthquake Control relay and start the chronometer.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check in the chronometer that after the delay time configured GIS activates Earthquake Control indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check GIS sends actuation signal and activates D-2.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Change delay time. Time configured: 17<strong>,</strong>0 [s]</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check delay time shown has changed.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Press the interlock related with Earthquake Control relay and start the chronometer.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check in the chronometer that after the delay time configured GIS activates Earthquake Control indication.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check GIS sends actuation signal and activates D-2.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check detection alarm is actived.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Release by turning the ETPB that was actuated.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check relay alarm is cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check all interlocks are cleared.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/05/28</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -4992,63 +4992,63 @@ access to the defined actions in the document GIS User Interface Manual, (Ref: 5
 <tr class="odd">
 <td>No user is logged in.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Log in with a user with Level 3 permissions.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Name of the user logged in is shown in the screen.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that button “BYPASS” does NOT appear in any screen.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check the delay time can NOT be modified.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check the button “Administration” in HOME page is NOT accesible and the user can NOT access to user management.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check that button “RESET” appears on the screens that correspond.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Log out.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
@@ -5074,63 +5074,63 @@ access to the defined actions in the document GIS User Interface Manual, (Ref: 5
 <tr class="odd">
 <td>No user is logged in.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Log in with a user with Level 2 permissions.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Name of the user logged in is shown in the screen.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check that button “BYPASS” does NOT appear in any screen.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check the delay time can NOT be modified.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Check the button “Administration” in HOME page is NOT accesible and the user can NOT access to user management.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Check that button “RESET” does NOT appear on any screen.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="even">
 <td>Log out.</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
 <tr class="odd">
 <td>Write down the date of the test: 2019/06/03</td>
 <td><ul>
-<li></li>
+✔
 </ul></td>
 <td>F.J.Lopez</td>
 </tr>
