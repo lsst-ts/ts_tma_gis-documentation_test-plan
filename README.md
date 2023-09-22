@@ -255,7 +255,7 @@ controller by means of safety networks. However, for testing architecture there 
 central controller), hence, the connection of M1M3, TMA, AUX AND DOME systems with central controller will be tested one
 by one.
 
-![](./media/image3.png){width="6.298611111111111in" height="3.71875in"}
+![](./media/image3.png)
 
 Fig. 1 Testing architecture overview.
 
@@ -265,7 +265,7 @@ Controller. This communication is programmed with PASconnect, in PAS4000.
 Detections, relays and signals related with LASER, M2, PFLOW and AcFiEa systems are reproduced physically with ETPBs and
 LEDs, as it is shown in Fig. 2.
 
-![](./media/image4.png){width="6.298611111111111in" height="3.502083333333333in"}
+![](./media/image4.png)
 
 Fig. 2 Testing architecture.
 
