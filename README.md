@@ -1,15 +1,4 @@
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>GLOBAL INTERLOCK SYSTEM -GIS</strong></p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+# Test Plan
 
 |                             |                             |
 |-----------------------------|-----------------------------|
@@ -19,7 +8,7 @@
 | **Approved by:**            | F. Javier López             |
 | **Date:**                   | 2022/08/30                  |
 
-\| INDEX \|
+## Index
 
 [1. Introduction [5](#introduction)](#introduction)
 
@@ -120,7 +109,7 @@
 
 [8.2 Level 2 permissions check [36](#level-2-permissions-check)](#level-2-permissions-check)
 
-\| DOCUMENT HISTORY \|
+### Document history
 
 <table>
 <colgroup>
@@ -222,7 +211,7 @@
 </tbody>
 </table>
 
-# Introduction
+## Introduction
 
 This document collects the procedures performed to verify the correct function of the Global Interlock System (GIS),
 which ensures the protection of the different systems of the telescope.
@@ -230,7 +219,7 @@ which ensures the protection of the different systems of the telescope.
 It includes the steps followed to complete GIS tests. Passing the tests confirms the correct communication, reception
 and emission of signals, between the different safety systems and, summarizing, the correct actuation of the system.
 
-# Reference documents
+## Reference documents
 
 |        |                                                                    |                      |             |
 |--------|--------------------------------------------------------------------|----------------------|-------------|
@@ -241,7 +230,7 @@ and emission of signals, between the different safety systems and, summarizing, 
 | **4**  | Electric schemes - 7186 LSST Global Safety Interlock System Design | *7186_GIS_0001*      | 1.0         |
 | **5**  | GIS User Interface Manual                                          | *7186_GIS_0005*      | 1.0         |
 
-# Technical description
+## Technical description
 
 **Architecture:**
 
@@ -266,7 +255,7 @@ controller by means of safety networks. However, for testing architecture there 
 central controller), hence, the connection of M1M3, TMA, AUX AND DOME systems with central controller will be tested one
 by one.
 
-![](./media/media/image3.png){width="6.298611111111111in" height="3.71875in"}
+![](./media/image3.png){width="6.298611111111111in" height="3.71875in"}
 
 Fig. 1 Testing architecture overview.
 
@@ -276,11 +265,11 @@ Controller. This communication is programmed with PASconnect, in PAS4000.
 Detections, relays and signals related with LASER, M2, PFLOW and AcFiEa systems are reproduced physically with ETPBs and
 LEDs, as it is shown in Fig. 2.
 
-![](./media/media/image4.png){width="6.298611111111111in" height="3.502083333333333in"}
+![](./media/image4.png){width="6.298611111111111in" height="3.502083333333333in"}
 
 Fig. 2 Testing architecture.
 
-# Testing procedure
+## Testing procedure
 
 Tests are performed in the installations of IK4-TEKNIKER, with the architecture described in the document
 7186-GIS_TestSystem.pdf (referenced in section [2 Reference documents]{.underline}).
@@ -353,13 +342,13 @@ there is a LED associated with the signal involved, observing the state of that 
 
 Table 1 Signals forcing and checking method.
 
-# Detections testing
+### Detections testing
 
 This part will be performed with a user logged in with administrator permissions, Level 4 of user management, because it
 is necessary to bypass the signals, only allowed at this level. User levels is described in the document GIS User
 Interface Manual, (Ref: 5).
 
-## D-1 GIS Fire Interlock
+#### D-1 GIS Fire Interlock
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event GIS Fire Interlock
 (D-1) is detected.
@@ -496,7 +485,7 @@ trip pushbutton (ETPB) ).
 </tbody>
 </table>
 
-## D-2 Catastrophic Earthquake Interlock
+#### D-2 Catastrophic Earthquake Interlock
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Catastrophic
 Earthquake Interlock (D-2) is detected.
@@ -731,7 +720,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-3 GIS Internal Failure
+#### D-3 GIS Internal Failure
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event GIS Internal
 Failure (D-3) is detected.
@@ -959,7 +948,7 @@ Testing Controller).
 </tbody>
 </table>
 
-## D-4 GIS ETPBs
+#### D-4 GIS ETPBs
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event GIS ETPBs (D-4) is
 detected.
@@ -1218,7 +1207,7 @@ Wireless1. This event, Wireless1, must be reset.
 </tbody>
 </table>
 
-## D-5 Unauthorized Pier access
+#### D-5 Unauthorized Pier access
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Unathorized Pier
 Access (D-5) is detected.
@@ -1362,7 +1351,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-6 Unauthorized Dome access
+#### D-6 Unauthorized Dome access
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Unathorized Dome
 access (D-6) is detected.
@@ -1513,7 +1502,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-7 TMA Brakes NOT engaged
+#### D-7 TMA Brakes NOT engaged
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event TMA Brakes NOT
 engaged (D-7) is detected.
@@ -1657,7 +1646,7 @@ Testing Controller).
 </tbody>
 </table>
 
-## D-8 Camera Cable Wrap Safety Device Actuated
+### D-8 Camera Cable Wrap Safety Device Actuated
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Camera Cable Wrap
 Safety Device Actuated (D-8) is detected.
@@ -1794,7 +1783,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-9 TMA ETPBs
+### D-9 TMA ETPBs
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event TMA ETPBs (D-9) is
 detected.
@@ -2015,7 +2004,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-10 Dome Locking pin retracted or Dome Rear Door Louvers NOT closed
+### D-10 Dome Locking pin retracted or Dome Rear Door Louvers NOT closed
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Dome Locking pin
 retracted or Dome Rear Door Louvers NOT closed (D-10) is detected.
@@ -2152,7 +2141,7 @@ trip pushbutton (ETPB) ).
 </tbody>
 </table>
 
-## D-11 Dome Rear doors are NOT closed
+### D-11 Dome Rear doors are NOT closed
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Dome Rear doors
 are NOT closed (D-11) is detected.
@@ -2289,7 +2278,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-12 Dome ETPBs
+### D-12 Dome ETPBs
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Dome ETPBs (D-12)
 is detected.
@@ -2496,7 +2485,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-13 Dome Crane not parked
+### D-13 Dome Crane not parked
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Dome Crane not
 parked (D-13) is detected.
@@ -2640,7 +2629,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-14 Camera Rotator Pin Inserted
+### D-14 Camera Rotator Pin Inserted
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Camera Rotator Pin
 Inserted (D-14) is detected.
@@ -2777,7 +2766,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-15 Platform Lift above Enclosure Lower Level
+### D-15 Platform Lift above Enclosure Lower Level
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Platform Lift
 above Enclosure Lower Level (D-15) is detected.
@@ -2914,7 +2903,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-16 Platform Lift NOT parked at the Telescope Level
+### D-16 Platform Lift NOT parked at the Telescope Level
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Platform Lift NOT
 parked at the Telescope Level (D-16) is detected.
@@ -3051,7 +3040,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-17 Failed MCS Watchdog or MCS Loss of Communication
+### D-17 Failed MCS Watchdog or MCS Loss of Communication
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event GIS Fire Interlock
 (D-17) is detected.
@@ -3195,7 +3184,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-18 Man-Lift not parked
+### D-18 Man-Lift not parked
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Man-Lift not
 parked (D-18) is detected.
@@ -3332,7 +3321,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-## D-19 Man-Lift not parked
+### D-19 Man-Lift not parked
 
 The aim of this test is to verify the right actuation of Global Interlock System (GIS) when the event Man-Lift not
 parked (D-19) is detected.
@@ -3476,7 +3465,7 @@ trip pushbutton (ETPB).
 </tbody>
 </table>
 
-# Relay interlocks testing
+## Relay interlocks testing
 
 This part will be performed with a user logged in with administrator permissions, Level 4 of user management, because it
 is necessary to bypass the signals, only allowed at this level. User levels is described in the document GIS User
@@ -3486,9 +3475,9 @@ In this case, all the interlocks managed by the GIS, of each of its subsystems, 
 identical to that of pressing an emergency button is expected and therefore the D-4 is always activated with any of
 them.
 
-## GIS 
+### GIS 
 
-### Wireless 1
+#### Wireless 1
 
 <table>
 <colgroup>
@@ -3605,7 +3594,7 @@ them.
 </tbody>
 </table>
 
-### Wireless 2
+#### Wireless 2
 
 <table>
 <colgroup>
@@ -3722,9 +3711,9 @@ them.
 </tbody>
 </table>
 
-## LASER
+### LASER
 
-### Laser controller
+#### Laser controller
 
 <table>
 <colgroup>
@@ -3841,9 +3830,9 @@ them.
 </tbody>
 </table>
 
-## PFLOW
+### PFLOW
 
-### PFlow
+#### PFlow
 
 <table>
 <colgroup>
@@ -3960,9 +3949,9 @@ them.
 </tbody>
 </table>
 
-## M2 CAMERA
+### M2 CAMERA
 
-### M2 Actuator
+#### M2 Actuator
 
 <table>
 <colgroup>
@@ -4079,7 +4068,7 @@ them.
 </tbody>
 </table>
 
-### M2 Hexapod
+#### M2 Hexapod
 
 <table>
 <colgroup>
@@ -4196,7 +4185,7 @@ them.
 </tbody>
 </table>
 
-### Camera Rotator
+#### Camera Rotator
 
 <table>
 <colgroup>
@@ -4313,7 +4302,7 @@ them.
 </tbody>
 </table>
 
-### Camera Hexapod
+#### Camera Hexapod
 
 <table>
 <colgroup>
@@ -4430,9 +4419,9 @@ them.
 </tbody>
 </table>
 
-## ACCESS / FIRE / EARTHQUAKE
+### ACCESS / FIRE / EARTHQUAKE
 
-### Access
+#### Access
 
 <table>
 <colgroup>
@@ -4549,7 +4538,7 @@ them.
 </tbody>
 </table>
 
-### Fire
+#### Fire
 
 <table>
 <colgroup>
@@ -4666,7 +4655,7 @@ them.
 </tbody>
 </table>
 
-### Earthquake
+#### Earthquake
 
 <table>
 <colgroup>
@@ -4783,14 +4772,14 @@ them.
 </tbody>
 </table>
 
-# Delays testing
+## Delays testing
 
 Delays postpone a certain time (configurable) the actuations related with a specific event.
 
 This part will be performed with a user logged in with administrator permissions, Level 4 of user management. User
 levels is described in the document GIS User Interface Manual, (Ref: 5).
 
-## Earthquake delay
+### Earthquake delay
 
 Earthquake delay postpones a configurable time the actions related with the event D-2 Catastrophic Earthquake Interlock.
 
@@ -4978,13 +4967,13 @@ Testing procedure to verify the correct function of the delay time related with 
 </tbody>
 </table>
 
-# User permissions check
+## User permissions check
 
 Tests described below (in sections [5]{.underline}, [6]{.underline} and [7]{.underline}) are performed with a user
 logged in with administrator permissions. Now, the following tests are performed in order to verify that each user has
 access to the defined actions in the document GIS User Interface Manual, (Ref: 5).
 
-## Level 3 permissions check
+### Level 3 permissions check
 
 <table>
 <colgroup>
@@ -5066,7 +5055,7 @@ access to the defined actions in the document GIS User Interface Manual, (Ref: 5
 </tbody>
 </table>
 
-## Level 2 permissions check
+### Level 2 permissions check
 
 <table>
 <colgroup>
